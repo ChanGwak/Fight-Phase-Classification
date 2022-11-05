@@ -1,0 +1,11 @@
+﻿Norm,Name,Key
+A_x,vehicle_acceleration,xyz[0]
+A_y,vehicle_acceleration,xyz[1]
+A_z,vehicle_acceleration,xyz[2]
+W_x,vehicle_angular_velocity,xyz[0]
+W_y,vehicle_angular_velocity,xyz[1]
+W_z,vehicle_angular_velocity,xyz[2]
+M1,actuator_motors,control[0]
+M2,actuator_motors,control[1]
+M3,actuator_motors,control[2]
+M4,actuator_motors,control[3]
